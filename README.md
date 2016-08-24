@@ -1,4 +1,4 @@
-Tes project to understand sendding of file descriptors over unix socket, and sniffing the socket with socat.
+Test project to understand sendding of file descriptors over unix socket, and sniffing the socket with socat.
 
 run sendfd, socat, and then recvfd.
 
